@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @periclesresende
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m @periclesrmessias  
+- 👀 I’m interested in data 
+- 🌱 I’m currently learning data analysis
 - 📫 How to reach me periclesrmessias@gmail.com
 
 <!---
